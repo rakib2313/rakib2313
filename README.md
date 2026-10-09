@@ -13,7 +13,9 @@
 
 ---
 
-### 🛠️ Skills & Technologies I'm Learning
+### 🛠️ Skills & Technologies 
+
+![Learning Status](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&vCenter=true&width=500&lines=Right+Now+Learning...;Building+My+Basics...;Exploring+Cyber+Security...)
 
 **Operating Systems:**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -42,7 +44,7 @@
 
 ![Rakibul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib2313&layout=compact&theme=tokyonight)
 
 ---
 
