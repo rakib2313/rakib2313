@@ -42,7 +42,7 @@
 
 ### 📈 GitHub Stats
 
-![Rakibul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)
+![Rakibul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib2313&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib2313&layout=compact&theme=tokyonight)
 
